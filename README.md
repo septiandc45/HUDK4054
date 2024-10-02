@@ -64,3 +64,23 @@ The quantitative sample size plan is as follows:
 
 Targetted samples for qualitative data collection is approximately **8 students** and **4 counselors** from **4 schools** in **3 regions** with **equal combinations of urban, rural, public, and private schools**.
 
+## Variables and Data Collection Tools
+
+Variables:
+- **Dependent Variables (DV)**: Physical Well-Being, Psychological Well-Being, and Social Well-Being
+- **Independent Variables (IV)**: Physical Bullying, V erbal Bullying, Indirect Bullying, Gender, and Education
+Level
+
+Data Collection Tools:
+- **Quantitative Instrument**: PISA 2018 questionnaire (OECD, 2018b)
+- **Qualitative Instrument**: open-ended semi-structured interview questions developed by the researcher
+
+## Research Data
+
+Disclaimer!!! For demonstrative purposes, this proposal used synthetic data to illustrate the results of the study. It combined original data from PISA 2018 database (OECD, 2018a) and fabricated data by AI for variable Physical Well-Being and Education Level. Please be advised that the results produced by this dataset may not reflect the final results. This section will be updated after the real data is collected and ready to be published.
+
+The cleaned illustrative dataset with sav format can be downloeaded [here](https://drive.google.com/drive/folders/1UNuzKbH6HJBUlNTyQUAUKWnYdCI0CPXF)
+
+## Refereces
+- OECD, The Organisation for Economic Co-operation and Development (2018a). PISA 2018 Database: Student questionnaire data file. Retrieved from https://www.oecd.org/pisa/data/2018database/
+- OECD, The Organisation for Economic Co-operation and Development (2018b). PISA 2018 Technical Report. Retrieved from https://www.oecd.org/pisa/data/pisa2018technicalreport/
