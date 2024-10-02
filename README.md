@@ -44,3 +44,23 @@ education levels.
 3. What is the prevalence of bullying among students at different gender and education levels?
 4. To what extent do the effects of bullying on students’ well-being vary across gender and education levels?
 5. What coping mechanisms do male and female students use to deal with bullying, and how do these strategies differ at various education levels? 
+
+## Research Design  
+This project will use **a mixed-method research design** which combines quantitative and qualitative approaches.  
+1. **Quantitative approach**: Cross Sectional study
+2. **Qualitative approach**: Phenomenological study
+
+## Sampling Design
+This project will use **a multistage random sampling** for quantitative data collection and **a purposive sampling** for follow up qualitative data collection.
+
+The quantitative sample size plan is as follows:
+|   **Education Levels**  | **Population Estimate (2023)** | **Targetted Sample Size** | **Targetted School Size** |
+|-------------------------|-------------------------------:|--------------------------:|--------------------------:|
+| Elementary Schools      |                       24046922 |                     24060 |                       802 |
+| Middle Schools          |                        9959956 |                      9945 |                       221 |
+| General High Schools    |                        5310433 |                      5310 |                       118 |
+| Vocational High Schools |                        5059603 |                      5040 |                       112 |
+| **Total**               |                   **44376914** |                 **44355** |                  **1253** |
+
+Targetted samples for qualitative data collection is approximately **8 students** and **4 counselors** from **4 schools** in **3 regions** with **equal combinations of urban, rural, public, and private schools**.
+
