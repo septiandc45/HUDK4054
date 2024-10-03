@@ -83,17 +83,17 @@ The cleaned illustrative dataset with sav format can be downloeaded [here](https
 
 ## Data Dictionary
 
-|         Variable         | Variable Name | Allowed Value | Description |
-|--------------------------|---------------|---------------|-------------|
-| -                        | ID            | 1-10581       | Respondents' unique identifier |
-| Gender                   | GENDER        | 0=Male<br>1=Female | Student's gender |
-| Education Level          | EDU           | 1=Elementary School<br>2=Middle School<br>3=General High School<br>4=Vocational High School | Students' education level |
-| Physical Bullying        | BL_PHYSIC     | 2-8           | Students' experience of physical bullying during the past 12 months when the survey was taken |
-| Verbal Bullying          | BL_VERBAL     | 2-8           | Students' experience of verbal bullying during the past 12 months when the survey was taken |
-| Indirect Bullying        | BL_INDIRECT   | 2-8           | Students' experience of indirect bullying during the past 12 months when the survey was taken |
-| Physical Well-Being      | WB_PHYSIC     | 6-21          | Students' physical well-being in the past 6 months |
-| Psychological Well-Being | WB_PSYCHO     | 10-36         | Students' psychological well-being in the past 6 months |
-| Social Well-Being        | WB_SOCIAL     | 6-24          | Students' social well-being in the past 6 months |
+|         Variable         | Variable Name | Level of Measurement | Allowed Value | Description |
+|--------------------------|---------------|----------------------|---------------|-------------|
+| -                        | ID            | Nominal              | 1-10581       | Respondents' unique identifier |
+| Gender                   | GENDER        | Nominal              | 0=Male<br>1=Female | Student's gender |
+| Education Level          | EDU           | Nominal              | 1=Elementary School<br>2=Middle School<br>3=General High School<br>4=Vocational High School | Students' education level |
+| Physical Bullying        | BL_PHYSIC     | Interval             | Students' experience of physical bullying during the past 12 months when the survey was taken |
+| Verbal Bullying          | BL_VERBAL     | Interval             | 2-8           | Students' experience of verbal bullying during the past 12 months when the survey was taken |
+| Indirect Bullying        | BL_INDIRECT   | Interval             | 2-8           | Students' experience of indirect bullying during the past 12 months when the survey was taken |
+| Physical Well-Being      | WB_PHYSIC     | Interval             | 6-21          | Students' physical well-being in the past 6 months |
+| Psychological Well-Being | WB_PSYCHO     | Interval             | 10-36         | Students' psychological well-being in the past 6 months |
+| Social Well-Being        | WB_SOCIAL     | Interval             | 6-24          | Students' social well-being in the past 6 months |
 
 ## Refereces
 - OECD, The Organisation for Economic Co-operation and Development (2018a). PISA 2018 Database: Student questionnaire data file. Retrieved from https://www.oecd.org/pisa/data/2018database/
