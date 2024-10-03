@@ -1,4 +1,3 @@
-
 # [ReadMe] Bullying at Schools
 
 ## Project Information
@@ -6,11 +5,12 @@
 - **Project Type**: Research Proposal  
 - **Full Title**: From Elementary through High School: Investigating the Impact of Bullying Experience on Students' Well-Being Across Gender and Education Levels  
 - **Author**: Septian Dwi Cahyo  
-- **ORCID ID**: [0009-0008-7818-538X](https://orcid.org/0009-0008-7818-538X)  
+- **ORCID ID**: [0009-0008-7818-538X](https://orcid.org/0009-0008-7818-538X)
+- **DOI**: https://doi.org/xx.xxxx/xxxxxxxxxx *(to be updated)*
 - **Affiliations**:  
   &nbsp;1. Teachers College, Columbia University  
   &nbsp;2. Ministry of Education, Culture, Research, and Technology, Indonesia  
-- **Proposal Date**: 2024-07-09  
+- **Proposal Date**: 2024-07-09
 
 ## Abstract
 
@@ -98,3 +98,7 @@ The cleaned illustrative dataset with sav format can be downloeaded [here](https
 ## Refereces
 - OECD, The Organisation for Economic Co-operation and Development (2018a). PISA 2018 Database: Student questionnaire data file. Retrieved from https://www.oecd.org/pisa/data/2018database/
 - OECD, The Organisation for Economic Co-operation and Development (2018b). PISA 2018 Technical Report. Retrieved from https://www.oecd.org/pisa/data/pisa2018technicalreport/
+
+# REFLECTION
+
+1. 
