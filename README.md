@@ -101,4 +101,16 @@ The cleaned illustrative dataset with sav format can be downloeaded [here](https
 
 # REFLECTION
 
-1. 
+## 1. Which metadata standard did you choose and why?
+
+I chose DDI (Data Documentation Initiative) as the metadata standard for my research project because it is specifically designed for documenting data in the behavioral sciences which is relevant to my field that aims to investigate the impact of bullying on students’ well-being across education levels and gender.
+
+## 2. Which template/software did you use?
+
+I used github to write this readme file.
+
+## 3. What was the most challenging part of creating a ReadME file? How did you overcome these obstacles?
+
+All parts of this assignment were very challenging for me. The details are as follows:
+1. **Challenge in selecting the content**: As mentioned in reference videos, the first challenge I faced was determining which information I'd like to include in this file. I noticed that it should be informative but not too long. I overcame this challenge by reflecting and asking myself what I hope to be presented on that file if I read someone else's file. I also looked on the example file you gave to help me decide which sections that are relevant to my project.
+2. **Technical challenges in writing the codes**: This is my first time writing document using Markdown as well as using github. I found that coding is very challenging but also intuitive. At first, I was confused how to start. I could not even write headings and subheadings. To overcome these challenges, I ask chatgpt for some specific questions such as how to bold the text and I learn that I have to use double asterisk (**) to do that. The overall process was time consuming because I learned everything from the scracth but the final product is quite rewarding for me.
