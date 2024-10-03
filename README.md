@@ -88,7 +88,7 @@ The cleaned illustrative dataset with sav format can be downloeaded [here](https
 | -                        | ID            | Nominal              | 1-10581       | Respondents' unique identifier |
 | Gender                   | GENDER        | Nominal              | 0=Male<br>1=Female | Student's gender |
 | Education Level          | EDU           | Nominal              | 1=Elementary School<br>2=Middle School<br>3=General High School<br>4=Vocational High School | Students' education level |
-| Physical Bullying        | BL_PHYSIC     | Interval             | Students' experience of physical bullying during the past 12 months when the survey was taken |
+| Physical Bullying        | BL_PHYSIC     | Interval             | 2-8           | Students' experience of physical bullying during the past 12 months when the survey was taken |
 | Verbal Bullying          | BL_VERBAL     | Interval             | 2-8           | Students' experience of verbal bullying during the past 12 months when the survey was taken |
 | Indirect Bullying        | BL_INDIRECT   | Interval             | 2-8           | Students' experience of indirect bullying during the past 12 months when the survey was taken |
 | Physical Well-Being      | WB_PHYSIC     | Interval             | 6-21          | Students' physical well-being in the past 6 months |
